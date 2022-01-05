@@ -1,0 +1,9 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.home{
+    height: 70vh;
+    width: 100vw;
+    background: url("https://i.gadgets360cdn.com/large/Amazon_prime_day_dates_1625740526464.jpg?downsize=3200:*");
+}
